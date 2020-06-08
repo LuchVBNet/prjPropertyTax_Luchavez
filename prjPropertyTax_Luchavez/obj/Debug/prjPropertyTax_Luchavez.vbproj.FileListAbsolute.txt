@@ -1,0 +1,30 @@
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.exe.config
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.exe
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.pdb
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.xml
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbprojAssemblyReference.cache
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.frmMain.resources
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.Resources.resources
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.GenerateResource.cache
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.exe
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.xml
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.pdb
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Visual Studio\prjBakerySolution_Luchavez\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.CopyComplete
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.exe.config
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.exe
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.pdb
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\prjPropertyTax_Luchavez.xml
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbprojAssemblyReference.cache
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.frmMain.resources
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.Resources.resources
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.GenerateResource.cache
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.vbproj.CopyComplete
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.exe
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.xml
+D:\Visual Studio\Week 2\prjPropertyTax_Luchavez\prjPropertyTax_Luchavez\obj\Debug\prjPropertyTax_Luchavez.pdb
